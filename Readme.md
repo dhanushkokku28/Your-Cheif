@@ -1,4 +1,4 @@
-# 🍲 Smart Recipe Finder
+# 🍲 Smart Recipe Finder-Your Cheif
 
 Welcome to **Smart Recipe Finder**, my final course project! This application will help users discover delicious recipes **based on the ingredients they already have at home**, reducing food waste and making cooking more fun.
 
